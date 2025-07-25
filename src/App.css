@@ -331,14 +331,6 @@ input::placeholder {
 
 @media (min-width: 768px) and (max-width: 1024px) {
 
-  .left-banner-side {
-    /* width: 100%; */
-  }
-
-  .right-banner-side {
-    /* display: none; */
-  }
-
   .flutter {
     flex-wrap: wrap !important;
   }
@@ -376,10 +368,13 @@ input::placeholder {
     display: block;
   }
   .left-content{
-    width:100%
+    width:100%;
   }
   .part{
-    width:97%
+    width:97%;
+  }
+  .sidebar{
+    max-height:100%;
   }
 
   .home_layout {
