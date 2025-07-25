@@ -14,8 +14,8 @@ const ContactSection = () => {
 
                 <div className="contact-text">
                     <p>
-                        For any collaborative <br />
-                        projects or enquiries feel free <br />
+                        For any collaborative 
+                        projects or enquiries feel free 
                         to connect with us.
                     </p>
                     <p className="website">vayuz.com</p>
