@@ -375,6 +375,9 @@ input::placeholder {
   .header-logo {
     display: block;
   }
+  .left-content{
+    width:100%
+  }
 
   .home_layout {
     width: calc(100% - 50px);
